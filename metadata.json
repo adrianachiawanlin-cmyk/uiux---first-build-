@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Supercharts",
+  "description": "Interactive technical analysis workstation with multi-timeframe candlestick charts, drawing tools, technical indicators, watchlist, and sentiment gauge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
